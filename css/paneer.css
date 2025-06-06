@@ -1,0 +1,15 @@
+body {
+    text-align: center; 
+    list-style-position: inside;
+    background-color: lightgoldenrodyellow;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+}
+
+p {
+    display: inline-box;
+    text-align: left;
+    width: 1200px;
+    margin: auto;
+    font-size: 20px;
+    color: brown;
+}
