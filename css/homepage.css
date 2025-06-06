@@ -1,0 +1,45 @@
+h1{
+    display: inline-box;
+    margin: 40px;
+    text-decoration: underline;
+    font-size: 50px;
+    color: rgb(116, 75, 60);
+    
+
+}
+
+.paneer {
+    background-color: rgb(255, 110, 53);
+    border-color: rgb(167, 47, 4);
+    color: rgb(142, 38, 0);
+    font-size: 30px;
+}
+
+.naan {
+    background-color: rgb(253, 215, 132);
+    border-color: rgb(193, 123, 82);
+    color: rgb(173, 138, 56);
+    font-size: 30px;
+}
+
+.lassi {
+    background-color: rgb(255, 185, 99);
+    border-color: rgb(198, 105, 28);
+    color: rgb(196, 76, 32);
+    font-size: 30px;
+}
+
+a {
+    display: inline-block;
+    width: 500px;
+    margin-bottom: 50px;
+    padding: 50px;
+    border: 3px solid;
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", sans-serif;
+    background-color: lightgoldenrodyellow;
+}
