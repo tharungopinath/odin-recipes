@@ -6,10 +6,72 @@ body {
 }
 
 p {
-    display: inline-box;
     text-align: left;
-    width: 1200px;
+    width: 750px;
     margin: auto;
-    font-size: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
     color: brown;
+}
+
+h1 {
+    display: inline-block;
+    color: rgb(211, 121, 42);
+    text-decoration: underline;
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    display: inline-block;
+    text-align: left;
+    width: 750px;
+    color: rgb(192, 89, 0);
+}
+
+ul {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color:rgb(248, 187, 134);
+    text-align: left;
+    width: auto;
+    padding: 10px 20px;
+    margin-top: -7px;
+    margin-bottom: -10px;
+    color:rgb(104, 49, 0);
+}
+
+.section-container {
+    width: 750px;
+    margin: auto;   
+    text-align: left;   
+}
+
+.steps{
+    width: 830px;
+    margin: auto;   
+    text-align: left;
+}
+
+ol {
+    display: block;
+    /*background-color:rgb(248, 187, 134);*/
+    text-align: left;
+    width: auto;
+    color:rgb(104, 49, 0);
+    font-size: 18px;
+    margin: 25 0;
+    margin-top: 0px;
+}
+
+#return {
+    display: inline-block;
+    background-color:rgba(255, 0, 51, 0.499);
+    border: 2px solid;  
+    padding: 10px;
+    border-color:rgb(194, 0, 0);
+    text-decoration: none;
+    color: rgb(152, 0, 0);
+    font-size: 30px;
+    margin-bottom: 20px;
 }
